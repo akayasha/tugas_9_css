@@ -1,0 +1,21 @@
+img{
+  z-index: 1;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+
+}
+.ke2{
+  width: 850px;
+  height: 675px;
+  float:right;
+  position: relative;
+  text-align: right;
+  z-index: 2;
+  background-color: white;
+  font-weight: bolder;
+  margin-right: 3px;
+  margin-top: 5px;
+  padding-right: 2px;
+  padding: 5px;
+}
